@@ -1,0 +1,17 @@
+{
+  "name": "todolistv2",
+  "version": "1.2.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zita szabo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "inspirational-quotes": "^1.0.8"
+  }
+}
